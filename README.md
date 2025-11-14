@@ -1,6 +1,8 @@
 
 ---
 
+**`**AI & Digital Solution Architect**`**
+
 ## 🚀 About Me
 
 I am **Ismail M.**, an **AI & Digital Solution Architect** specializing in:
