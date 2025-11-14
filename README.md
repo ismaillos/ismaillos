@@ -1,16 +1,3 @@
-<p align="center">
-  <img src="Profile.png" alt="Ismail M Banner" width="100%" />
-</p>
-
-<h1 align="center">Hi there, I'm Ismail 👋</h1>
-
-<h3 align="center">AI & Digital Solution Architect | Systems & Network Engineer | EdTech & Automation Innovator</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ismail-merzouk-3b5244b8/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
 
 ---
 
@@ -26,6 +13,19 @@ I am **Ismail M.**, an **AI & Digital Solution Architect** specializing in:
 With 7+ years of experience leading IT & digital transformation projects, I focus on building **scalable, automated, and intelligent systems** that simplify workflows, improve user experience, and enable impactful digital products.
 
 ---
+<p align="center">
+  <img src="Profile.png" alt="Ismail M Banner" width="100%" />
+</p>
+
+<h1 align="center">Hi there, I'm Ismail 👋</h1>
+
+<h3 align="center">AI & Digital Solution Architect | Systems & Network Engineer | EdTech & Automation Innovator</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ismail-merzouk-3b5244b8/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
 ## ⭐ Main Focus Areas
 
