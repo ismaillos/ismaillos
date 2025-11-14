@@ -1,7 +1,7 @@
 
 ---
 
-**`**AI & Digital Solution Architect**`**
+`**AI & Digital Solution Architect**`
 
 ## 🚀 About Me
 
