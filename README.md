@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="A_professional_digital_graphic_banner_features_Ism.png" alt="Ismail M Banner" width="100%" />
+  <img src="Profile.png" alt="Ismail M Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there, I'm Ismail 👋</h1>
